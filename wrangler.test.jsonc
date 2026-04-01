@@ -1,5 +1,5 @@
 {
-  "name": "navihive-test",
+  "name": "navihive",
   "compatibility_date": "2025-01-01",
   "main": "dist/navihive/index.js",
   "assets": {
